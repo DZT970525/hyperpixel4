@@ -4,7 +4,7 @@
 
 #define CLK RPI_V2_GPIO_P1_13 // BCM 27
 #define MOSI RPI_V2_GPIO_P1_37 // BCM 26
-#define CS RPI_V2_GPIO_P1_12 // BCM 18
+#define CS RPI_V2_GPIO_P5_03 // BCM 28
 #define DELAY 100 // clock pulse time in microseconds
 #define WAIT 120 // wait time in milliseconds
 
